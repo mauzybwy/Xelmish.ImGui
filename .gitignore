@@ -330,3 +330,9 @@ ASALocalRun/
 .mfractor/
 samples/space-invaders-clone/highscore.txt
 /.ionide
+
+# ImGui
+imgui.ini
+
+# LSP
+.cache
